@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mundo Spartan</string>
+    <string name="logo_image_view_text">Logotipo de MiraCosta College</string>
+    <string name="swap_image_button_text">Intercambiar Imagen</string>
+    <string name="toast_text">¡Esto es Esparta!</string>
+</resources>
